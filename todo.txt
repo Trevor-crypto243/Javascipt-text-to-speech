@@ -1,0 +1,3 @@
+Make it read from a node js backend
+-should read from a file
+-read out the texts after a period of time
